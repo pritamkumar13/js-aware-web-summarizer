@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Project caches
+cache/
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
